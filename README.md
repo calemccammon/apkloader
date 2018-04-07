@@ -1,4 +1,4 @@
-Application: APKLoader
+<b>Application: APKLoader</b><br/>
 Author: Cale McCammon
 
 APKLoader is a Swing GUI for common ADB commands to install APKs to Android phones. 
