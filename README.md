@@ -19,3 +19,8 @@ trust your computer. Instructions can be found here: https://www.digitaltrends.c
    -Upgrade/Replace: Upgrades or replaces an existing version of the application with the selected one.
    -Install Test Build: Installs unsigned builds.
 5. Select Load APK. Installation time will vary depending on the Android OS version and the size of the APK.
+
+Tools used:
+
+1. Java
+2. Swing
