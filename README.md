@@ -1,4 +1,4 @@
-<center>![Alt text](https://github.com/calemccammon/apkloader/blob/master/Capture.PNG "Screenshot")</center>
+![Alt text](https://github.com/calemccammon/apkloader/blob/master/Capture.PNG "Screenshot")
 
 <b>Application: APKLoader</b><br/>
 Author: Cale McCammon
